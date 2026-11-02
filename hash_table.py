@@ -6,7 +6,7 @@
 # GitHub Copilot, TabNine, etc. when working on this file.
 # Writing a data structure yourself is the best
 # way to learn how it works.
-# Modified by: Harris Adam
+# by: Harris Adam
 from random import randint
 
 class HashTable:
